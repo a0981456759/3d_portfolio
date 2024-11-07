@@ -26,6 +26,16 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import java from './java.svg'
+import android from './android.svg'
+import python from './python.svg'
+import rlang from './r-lang.svg'
+import tableau from './tableau.svg'
+import solidity from './solidity.svg'
+import solana from './solana.svg'
+import dictionary from './dictionary.svg'
+import ai from './ai.svg'
+import messages from './messages.svg'
 
 export {
     css,
@@ -55,5 +65,15 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    java,
+    android,
+    python,
+    rlang,
+    tableau,
+    solidity,
+    solana,
+    dictionary,
+    ai,
+    messages
 }

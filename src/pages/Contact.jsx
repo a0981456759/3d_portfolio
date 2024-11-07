@@ -73,7 +73,7 @@ const Contact = () => {
     })
   }
   return (
-    <section className='relative flex lg:flex-row flex-col max-container'>
+    <section className='relative flex lg:flex-row flex-col max-container h-[100vh]'>
         
         {alert.show && <Alert {...alert} />}
         <div className='flex-1 min-w-[50%] flex flex-col'>
@@ -115,7 +115,7 @@ const Contact = () => {
                 currentAnimation={currentAnimation}
               position={[0.5, 0.35, 0]} 
               rotation={[12.6, -0.6, 0]}
-              scale={[0.5, 0.5, 0.5]} />
+              scale={[0.2, 0.2, 0.2]} />
             </Suspense>
           </Canvas>
          </div>

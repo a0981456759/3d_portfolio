@@ -19,19 +19,19 @@ const renderContent = {
         neo-brutalism-blue py-4 px-8 text-white mx5">Hi, I am 
         <span className="font-semibold"> Howard Wang</span>
         <br/>
-        A Software Engineer from Australia
+        A IT Master in UoM
         </h1>
     ),
     2:(
         <InfoBox 
-            text="Worked with many companies and picked up many skills along the way."
+            text="I am a software engineer with a passion for building innovative solutions to complex problems."
             link="/about"
-            btnText="Learn More"
+            btnText="Learn More About Me"
         />
     ),
     3:(
         <InfoBox
-        text="Led multiple projects from start to finish, from concept to delivery."
+        text="Created many projects to showcase my skills and knowledge."
         link="/projects"
         btnText="View Projects"
         />
